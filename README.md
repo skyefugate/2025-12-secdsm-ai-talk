@@ -51,14 +51,14 @@ Because network troubleshooting needs more humor:
 
 ## Want More?
 
-I wrote a <a href="https://fugate.dev" target="_blank">full blog post</a> about this with the practical how-to guide, real examples, and lessons learned (including the time AI `rm -rf`'d my data directory).
+I wrote a <a href="https://skye.fugate.dev/blog/posts/my-network-has-commitment-issues" target="_blank">full blog post</a> about this with the practical how-to guide, real examples, and lessons learned (including the time AI `rm -rf`'d my data directory).
 
 ## Questions?
 
 Hit me up. I'm happy to talk about AI, networking, or how to secure your Raspberry Pi.
 
-And remember: **Be polite to the AI. You never know what's coming.**
+Oh, and remember: **Be polite to AI. You never know what's coming.**
 
 ## License
 
-This work is licensed under [CC BY 4.0](LICENSE). Use it, remix it, share it — just give credit and link back to <a href="https://fugate.dev" target="_blank">fugate.dev</a>.
+This work is licensed under [CC BY 4.0](LICENSE). Use it, remix it, share it — just give credit and link back to <a href="https://skye.fugate.dev" target="_blank">skye.fugate.dev</a>.
